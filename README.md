@@ -12,6 +12,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 - [How to create Moonshot solutions with AI](presentations/Moonshot_solutions.pdf) - How to train Copilot to be your co-thinker? (Peter Ward)
 - [Intro to Uno Platform](presentations/Uno_AI.pdf) - Intro to Uno Platform, now with AI (Steve Bilogan)
 - [Building Agents in AI Foundry](presentations/AI_foundry.pdf) - Every application achieves more with AI and agents (Supreet Kaur)
+- [RAG Hero](presentations/RAG-Hero.pdf) - Creating Searchable Vector Databases (Jason Beres)
 
 <!-- 
 When adding presentations, use this format:
